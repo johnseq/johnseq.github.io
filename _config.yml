@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: The Zöllei Lab
 #description: The Zöllei Lab
 
@@ -36,6 +36,9 @@ github_username:  lillazollei
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: pages-themes/minimal@v0.2.0
+
 
 site:
   logo: https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg
@@ -47,12 +50,12 @@ header_pages:
   - publications.markdown
 
 
-minimal:
+minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/lillazollei" }
     - { platform: github,  user_url: "https://github.com/freesurfer/freesurfer" }
     - { platform: twitter, user_url: "https://twitter.com/LZollei" }
-    - { platform: mastadon, user_url: "https://mastodon.online/@lzollei" }
+    - { platform: mastodon, user_url: "https://mastodon.online/@lzollei" }
     
 # Exclude from processing.
 # The following items will not be processed, by default.
