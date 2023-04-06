@@ -23,19 +23,37 @@ title: The Zöllei Lab
 #description: The Zöllei Lab
 
 
-#email: your-email@example.com
+email: lzollei-at-mgh.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Zöllei Lab
+logo: https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: LZollei
-github_username:  lillazollei
+#twitter_username: LZollei
+#github_username:  lillazollei
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+site:
+  logo: https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg
+
+header_pages:
+  - about.markdown
+  - software.markdown
+  - jobs.markdown
+  - publications.markdown
+
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/lillazollei" }
+    - { platform: github,  user_url: "https://github.com/freesurfer/freesurfer" }
+    - { platform: twitter, user_url: "https://twitter.com/LZollei" }
+    - { platform: mastadon, user_url: "https://mastodon.online/@lzollei" }
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
