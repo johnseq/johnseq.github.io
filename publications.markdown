@@ -10,6 +10,8 @@ twitter:title: Lilla Zöllei, PhD
 viewport: width=device-width, initial-scale=1.0
 ---
 
+![](/assets/brainy01.jpeg){: .align-right}{: width="250" }
+
 
 ## Journal articles
 
