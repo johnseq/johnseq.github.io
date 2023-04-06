@@ -1,5 +1,6 @@
 ---
-layout: page
+
+layout: default
 title: Jobs
 permalink: /jobs/
 twitter:card: summary

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-theme-minimal
+
 title: The Zöllei Lab
 #description: The Zöllei Lab
 
@@ -34,8 +34,9 @@ github_username:  lillazollei
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-minimal
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
 #  - jekyll-remote-theme
 #remote_theme: pages-themes/minimal@v0.2.0
 
