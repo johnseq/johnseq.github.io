@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-#layout: home
-#title: Home
-
-layout: page
+layout: home
 title: Home
+
+#layout: page
+#title: Home
 permalink: /
 twitter:card: summary
 twitter:description: Associate Professor of Radiology, MGH / HMS
