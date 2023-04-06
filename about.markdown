@@ -21,7 +21,9 @@ I am one of the founding members of FIT'NG (Fetal, infant and toddler
 neuroimaging). Find out more at [FitNG](https://groups.io/g/fitng) or follow us on
 Twitter [@FIT_NGIn](https://twitter.com/fit_ngin)
 
+![FITNG](/assets/coverphoto.fitng.png)
 
+# Contact Info
 
 {% include contact.markdown %}
 

@@ -14,7 +14,7 @@ twitter:image: "https://scholar.harvard.edu/files/lillazollei/files/lillazollei.
 ---
 
 
-# Infant Freesurfer
+# [Infant Freesurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/infantFS)
 
 Infant FreeSurfer is an open-source software project that provides tools for processing, analyzing, and visualizing structural neuroimaging data from infants. It is a fork of the FreeSurfer project, which was originally developed for adult brains. Infant FreeSurfer includes tools for skull stripping, bias field correction, segmentation of gray and white matter, and cortical surface reconstruction. It also includes tools for analyzing functional MRI data and diffusion tensor imaging data.
 

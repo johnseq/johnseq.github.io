@@ -26,11 +26,11 @@ title: The Zöllei Lab
 email: lzollei-at-mgh.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Zöllei Lab
-logo: https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg
+logo: "/assets/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: LZollei
-#github_username:  lillazollei
+github_username:  lillazollei
 
 # Build settings
 theme: minima
@@ -47,7 +47,7 @@ header_pages:
   - publications.markdown
 
 
-minima:
+minimal:
   social_links:
     - { platform: github,  user_url: "https://github.com/lillazollei" }
     - { platform: github,  user_url: "https://github.com/freesurfer/freesurfer" }
